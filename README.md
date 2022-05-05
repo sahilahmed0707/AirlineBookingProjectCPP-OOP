@@ -1,1 +1,2 @@
 # AirlineBookingProjectCPP-OOP
+A Terminal Menu Based Airline Flight Reservation System for allowing users to book a flight, view their ticket and other flight information and allow admins to add, delete, edit flight details, and view list of all occupants in a flight. All data was stored in a local text file. The implementation involved dynamically allocated arrays, classes, private, protected and public members, constructers, destructors, initialization lists, operator overloading, friend functions and inheritance. 
